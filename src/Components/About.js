@@ -35,7 +35,7 @@ class About extends Component {
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-                    <span>Gokul kumar{name}</span>
+                    <span>{name}</span>
                     <br />
                     <span>
                       {street}
